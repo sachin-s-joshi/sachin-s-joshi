@@ -11,4 +11,4 @@ I am currently working as software professional and have overall 7 years of expe
 - 💬 Ask me about frameworks in Automation , Cucumber, WDIO, protractor, AWS , NodeJS, Typescript, Python
 - :globe_with_meridians: My Website : -> in progress :construction: 
 - ⚡ Fun fact: I am a foodie and like different cultural cuisine (if that's suitable to eat :stuck_out_tongue_winking_eye: ).
-- :books: Recent Love - The Go Giver by 
+- :books: Recent Love - [The Go Giver](https://g.co/kgs/CASxbS) 
