@@ -5,8 +5,8 @@ I am currently working as software professional and have overall 7 years of expe
 
 #### Other Interest I am handling: 
 
-- 🔭 I’m currently working on Cypress.io, WebdriverIO, Scrapy
-- 🌱 I’m currently learning Cypress,Pyhton for ML, Golang, Network Marketing , Product Security 
+- 🔭 I’m currently working on [Cypress.io](https://github.com/cypress-io), [WebdriverIO](https://github.com/webdriverio),[Scrapy](https://github.com/scrapy/scrapy)
+- 🌱 I’m currently learning [Cypress](https://github.com/cypress-io),Pyhton for ML, [Golang](https://github.com/golang), Network Marketing , Product Security 
 - 👯 I’m looking to collaborate on anything that I know professionally and can help into. I like to spend quality time with like minded.
 - 💬 Ask me about frameworks in Automation , Cucumber, WDIO, protractor, AWS , NodeJS, Typescript, Python
 - :globe_with_meridians: My Website : -> in progress :construction: 
