@@ -1,6 +1,5 @@
 
-#### Introduction
-My name is [Sachin Joshi](https://www.linkedin.com/in/sachin-s-joshi/), I am a full stack Engineer and love to work for open source projects and some of my own personal stuff on github.
+An Engineer, love to work for open source projects and some of my own personal stuff.
 I am currently working as software professional and have overall 7 years of expertise in software development life cycle.
 
 #### Other Interest I am handling: 
