@@ -5,6 +5,6 @@ I am currently working as software professional and have overall 7 years of expe
 #### Other Interest I am handling: 
 
 - 👯 I’m looking to collaborate on anything that I know professionally and can help into. I like to spend quality time with like minded.
-- 💬 Ask me about frameworks in Automation , Cucumber, WDIO, protractor, AWS , NodeJS, Typescript, Python
-- :globe_with_meridians: My Website : -> [Devkida](https://blog.devkida.com) 
+- 💬 Ask me about frameworks in Automation , Javascript, ReactJS, Google Analytics, SEO, application performance,etc.
+- :globe_with_meridians: My Website : -> [Devkida](https://www.devkida.com) 
 - :books: Recent Love - [The Go Giver](https://g.co/kgs/CASxbS)
